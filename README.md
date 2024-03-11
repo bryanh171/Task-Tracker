@@ -5,4 +5,4 @@ This application is created using a modern GUI, which allows the user to keep tr
 # Features
 
 This application was built with Tkinter and TkinterDesigner to help create the modern look of the GUI. 
-Json was used to save and load the tasks between each launch of the program.
+JSON was used to save and load the tasks between each launch of the program.
